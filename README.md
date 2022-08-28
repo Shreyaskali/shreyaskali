@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hi, I am Shreyas Kali. I am a sophomore at National Institute of Technology, Tiruchirappalli majoring in Production Engineering with minor in Computer Applications. My interest are Mathematics, Statistics, Data Science & Machine learning, and Algorithms. I like to play *Chess*.
+
+- I’m currently working on [Mathdigilab](https://mathdigilab.github.io); a website to learn, explore & prepare for top mathematics exams.
+- I’m currently learning Statistics & Machine learning.
 
 <!--
 **Shreyaskali/shreyaskali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
